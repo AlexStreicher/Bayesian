@@ -1,2 +1,2 @@
 # Bayesian
-Examining GPR + BO
+Examining Gaussian Process Regression and Bayesian Optimization
